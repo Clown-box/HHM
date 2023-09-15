@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB842BED2AB4CB9E00C03F3E /* White-Plate-Transparent-Background.imageset in Resources */ = {isa = PBXBuildFile; fileRef = BB842BEC2AB4CB9D00C03F3E /* White-Plate-Transparent-Background.imageset */; };
 		BB895FB12AB3781100C9C675 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB895FB02AB3781100C9C675 /* AppDelegate.swift */; };
 		BB895FB32AB3781100C9C675 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB895FB22AB3781100C9C675 /* SceneDelegate.swift */; };
 		BB895FB52AB3781100C9C675 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB895FB42AB3781100C9C675 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB842BEC2AB4CB9D00C03F3E /* White-Plate-Transparent-Background.imageset */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "White-Plate-Transparent-Background.imageset"; path = "Assets.xcassets/White-Plate-Transparent-Background.imageset"; sourceTree = "<group>"; };
 		BB895FAD2AB3781100C9C675 /* HHM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HHM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB895FB02AB3781100C9C675 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BB895FB22AB3781100C9C675 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				BB895FB22AB3781100C9C675 /* SceneDelegate.swift */,
 				BB895FB42AB3781100C9C675 /* ViewController.swift */,
 				BB895FB62AB3781100C9C675 /* Main.storyboard */,
+				BB842BEC2AB4CB9D00C03F3E /* White-Plate-Transparent-Background.imageset */,
 				BB895FB92AB3781300C9C675 /* Assets.xcassets */,
 				BB895FBB2AB3781300C9C675 /* LaunchScreen.storyboard */,
 				BB895FBE2AB3781300C9C675 /* Info.plist */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB842BED2AB4CB9E00C03F3E /* White-Plate-Transparent-Background.imageset in Resources */,
 				BB895FBD2AB3781300C9C675 /* LaunchScreen.storyboard in Resources */,
 				BB895FBA2AB3781300C9C675 /* Assets.xcassets in Resources */,
 				BB895FB82AB3781100C9C675 /* Main.storyboard in Resources */,
